@@ -1,0 +1,13 @@
+body {
+    background-color: ivory;
+    font-size: 120%;
+    font-family: "Times New Roman", serif;
+}
+
+a {
+    color: rgb(255, 160, 35);
+}
+
+.recipe-details {
+    font-family: "Verdana", sans-serif;
+}
